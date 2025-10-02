@@ -1,6 +1,6 @@
 ## Hi there 👋 thanks for visiting.
 
-Some of my personal projects not related to my professional work.
+Some of my personal front-end engineering projects not related to my professional work.
 
 [Rentflicks and chill](https://nflixandchilll.web.app)  
 [Code](https://github.com/Sandesh-bn/DefinitelyNotNetflicks) 📺🍿🍾

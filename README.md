@@ -12,3 +12,9 @@ Some of my personal projects not related to my professional work.
 [Code](https://github.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit)
 
 Please open a pr if you are interested in collaborating
+
+
+![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-1.jpg)
+
+
+![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit/refs/heads/master/src/assets/images/preview-1.jpg)

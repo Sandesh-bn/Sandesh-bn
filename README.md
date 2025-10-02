@@ -16,6 +16,6 @@ Please open a pr if you are interested in collaborating
 
 ![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-1.jpg)
 
-![Preview 2](http://github.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/blob/master/src/assets/images/preview-1.jpg)
+![Preview 2]([http://github.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/blob/master/src/assets/images/preview-1.jpg](https://raw.githubusercontent.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/refs/heads/master/src/assets/images/preview-1.jpg))
 
 ![Preview 3](https://raw.githubusercontent.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit/refs/heads/master/src/assets/images/preview-1.jpg)

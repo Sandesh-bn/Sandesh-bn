@@ -14,7 +14,8 @@ Some of my personal front-end engineering projects not related to my professiona
 [Frequently used Social Media and E-commerce UI elements](https://social-media-ecommerce-ui-toolkit.vercel.app/)  
 [Code](https://github.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit) 🩷👍
 
-[Spotify Inspired Music Player)(https://music-player-xi-eight.vercel.app/) 🎵🎷🎸🎧
+   
+[Spotify Inspired Music Player](https://music-player-xi-eight.vercel.app/) 🎵🎷🎸🎧  
 [Code](https://github.com/Sandesh-bn/Music-Player)
 
 

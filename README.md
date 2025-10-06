@@ -1,3 +1,5 @@
+![scratt](https://github.com/user-attachments/assets/06d54a3c-9f78-42bf-aa12-b2971b043d95)
+
 ## Hi there 👋 thanks for visiting.
 
 Some of my personal front-end engineering projects not related to my professional work.

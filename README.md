@@ -18,6 +18,7 @@ Some of my personal front-end engineering projects not related to my professiona
 [Spotify Inspired Music Player](https://music-player-xi-eight.vercel.app/) 🎵🎷🎸🎧  
 [Code](https://github.com/Sandesh-bn/Music-Player)
 
+Liquid glass inspire theme: (https://liquid-glass-music-player.vercel.app/) 💧
 
 Please open a PR if you are interested in collaborating 🤝🤝
 
@@ -25,6 +26,8 @@ Please open a PR if you are interested in collaborating 🤝🤝
 ![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-1.jpg)
 
 ![Preview 2](https://raw.githubusercontent.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/refs/heads/master/src/assets/images/preview-1.jpg)
+
+![Preview_3](https://raw.githubusercontent.com/Sandesh-bn/liquid-glass-music-player/refs/heads/master/src/assets/preview1.jpg)
 
 ![Preview 3](https://raw.githubusercontent.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit/refs/heads/master/src/assets/images/preview-1.jpg)
 

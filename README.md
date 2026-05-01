@@ -8,8 +8,8 @@ Some of my personal front-end engineering projects not related to my professiona
 
 
   
-[Trading Portfolio](https://minimalistic-trading-portfolio-app.vercel.app/)   
-[Code](https://github.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-) 📉📊📈💹
+[Trading Portfolio](https://trading-dashboard-ten-gamma.vercel.app/)   
+[Code](https://github.com/Sandesh-bn/TradingDashboard) 📉📊📈💹
 
 [Frequently used Social Media and E-commerce UI elements](https://social-media-ecommerce-ui-toolkit.vercel.app/)  
 [Code](https://github.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit) 🩷👍

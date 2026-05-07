@@ -6,10 +6,15 @@ Some of my personal front-end engineering projects not related to my professiona
 [Rentflicks and chill](https://nflixandchilll.web.app)  
 [Code](https://github.com/Sandesh-bn/DefinitelyNotNetflicks) 📺🍿🍾
 
-
-  
 [Trading Portfolio](https://trading-dashboard-ten-gamma.vercel.app/)   
 [Code](https://github.com/Sandesh-bn/TradingDashboard) 📉📊📈💹
+
+
+
+[Covid Dashboard (https://github.com/Sandesh-bn/Covid-Dashboard)
+[Code](https://covid-dashboard-zeta.vercel.app/)
+
+
 
 [Frequently used Social Media and E-commerce UI elements](https://social-media-ecommerce-ui-toolkit.vercel.app/)  
 [Code](https://github.com/Sandesh-bn/Social-Media-Ecommerce-UI-toolkit) 🩷👍
@@ -24,6 +29,8 @@ Please open a PR if you are interested in collaborating 🤝🤝
 
 
 ![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-1.jpg)
+
+<img width="1275" height="832" alt="covid 1" src="https://github.com/user-attachments/assets/687af517-15dc-4271-a04c-5f913f599be8" />
 
 ![Preview 2](https://raw.githubusercontent.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/refs/heads/master/src/assets/images/preview-1.jpg)
 

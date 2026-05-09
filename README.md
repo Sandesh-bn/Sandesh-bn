@@ -12,9 +12,6 @@ Some of my personal front-end engineering projects not related to my professiona
 [Finance Dashboard](https://financial-dashboard-2zkb.vercel.app/)
 [Code](https://github.com/Sandesh-bn/Financial_Dashboard)
 
-<img width="1888" height="922" alt="expense 2" src="https://github.com/user-attachments/assets/22d64d2c-e7a6-4c14-a69e-56fed3bfab07" />
-<img width="1911" height="930" alt="expense 1" src="https://github.com/user-attachments/assets/4ac6d556-aee2-493b-9c01-536e617b68e8" />
-
 
 [Covid Dashboard](https://github.com/Sandesh-bn/Covid-Dashboard)
 [Code](https://covid-dashboard-zeta.vercel.app/)
@@ -40,6 +37,11 @@ Please open a PR if you are interested in collaborating 🤝🤝
 <img width="1275" height="832" margin="30" alt="covid 1" src="https://github.com/user-attachments/assets/687af517-15dc-4271-a04c-5f913f599be8" />
 
 ![Preview 2](https://raw.githubusercontent.com/Sandesh-bn/-Minimalistic-Trading-Portfolio-App-/refs/heads/master/src/assets/images/preview-1.jpg)
+
+
+<img width="1888" height="922" alt="expense 2" src="https://github.com/user-attachments/assets/22d64d2c-e7a6-4c14-a69e-56fed3bfab07" />
+<img width="1911" height="930" alt="expense 1" src="https://github.com/user-attachments/assets/4ac6d556-aee2-493b-9c01-536e617b68e8" />
+
 
 ![Preview_3](https://raw.githubusercontent.com/Sandesh-bn/liquid-glass-music-player/refs/heads/master/src/assets/preview1.jpg)
 

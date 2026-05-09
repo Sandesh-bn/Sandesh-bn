@@ -9,6 +9,8 @@ Some of my personal front-end engineering projects not related to my professiona
 [Trading Portfolio](https://trading-dashboard-ten-gamma.vercel.app/)   
 [Code](https://github.com/Sandesh-bn/TradingDashboard) 📉📊📈💹
 
+[Finance Dashboard](https://financial-dashboard-2zkb-git-master-roman-numerals-projects.vercel.app/)
+[Code](https://github.com/Sandesh-bn/Financial_Dashboard)
 
 
 [Covid Dashboard](https://github.com/Sandesh-bn/Covid-Dashboard)

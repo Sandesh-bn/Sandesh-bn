@@ -3,6 +3,10 @@
 
 Some of my personal front-end engineering projects not related to my professional work.
 
+[Apple Product Price Dashboard](https://apple-product-insights-frontend.vercel.app/)
+[Code](https://github.com/Sandesh-bn/Apple_Product_Insights_Frontend)
+
+
 [Rentflicks and chill](https://nflixandchilll.web.app)  
 [Code](https://github.com/Sandesh-bn/DefinitelyNotNetflicks) 📺🍿🍾
 

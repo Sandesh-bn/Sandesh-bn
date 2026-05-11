@@ -35,6 +35,8 @@ Some of my personal front-end engineering projects not related to my professiona
 
 Please open a PR if you are interested in collaborating 🤝🤝
 
+<img width="1915" height="897" alt="ap" src="https://github.com/user-attachments/assets/05f037fc-af57-4e89-ad2c-f121e11345fa" />
+
 
 <img width="1224" height="652" alt="frontend - Brave 2026-05-10 18-49-23" src="https://github.com/user-attachments/assets/11633841-a96b-40f7-996d-f5f163f2a846" />
 

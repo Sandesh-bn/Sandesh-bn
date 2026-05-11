@@ -36,7 +36,8 @@ Some of my personal front-end engineering projects not related to my professiona
 Please open a PR if you are interested in collaborating 🤝🤝
 
 
-<img width="720" height="384" alt="frontend - Brave 2026-05-10 18-49-23" src="https://github.com/user-attachments/assets/b6a8ae0f-782e-43a4-9628-bcff5c6d5f13" />
+<img width="1224" height="652" alt="frontend - Brave 2026-05-10 18-49-23" src="https://github.com/user-attachments/assets/11633841-a96b-40f7-996d-f5f163f2a846" />
+
 
 
 ![Preview 1](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-1.jpg)

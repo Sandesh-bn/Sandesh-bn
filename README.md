@@ -40,6 +40,11 @@ Please open a PR if you are interested in collaborating 🤝🤝
 
 <img width="1224" height="652" alt="frontend - Brave 2026-05-10 18-49-23" src="https://github.com/user-attachments/assets/11633841-a96b-40f7-996d-f5f163f2a846" />
 
+<img width="2048" height="2732" alt="nba-dashboard-frontend vercel app_(iPad Pro)" src="https://github.com/user-attachments/assets/d32e4a10-485d-416f-9849-6d24fbe90104" />
+
+<img width="2048" height="2732" alt="nba-dashboard-frontend vercel app_(iPad Pro) (1)" src="https://github.com/user-attachments/assets/1c8cfdd5-77b8-4313-a0cf-6bf1130aa25f" />
+
+
 
 <img width="1867" height="870" alt="ap3" src="https://github.com/user-attachments/assets/256d10db-90e0-4903-8d73-4cb4b35c85f8" />
 

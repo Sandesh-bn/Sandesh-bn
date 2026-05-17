@@ -16,6 +16,9 @@ Track and visualize Apple product pricing trends with interactive analytics and 
 
 ![Apple Dashboard Preview](https://github.com/user-attachments/assets/05f037fc-af57-4e89-ad2c-f121e11345fa)
 
+<img width="1867" height="870" alt="ap3" src="https://github.com/user-attachments/assets/256d10db-90e0-4903-8d73-4cb4b35c85f8" />
+
+<img width="1823" height="868" alt="ap2" src="https://github.com/user-attachments/assets/276f1784-a68c-4691-a0de-bdef80b1f135" />
 ---
 
 ## 🏀 NBA Dashboard
@@ -41,6 +44,10 @@ A Netflix-inspired streaming UI built with modern frontend technologies and smoo
 
 ---
 
+![Preview](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-3.jpg)
+
+---
+
 ## 📈 Trading Portfolio Dashboard
 
 A sleek trading portfolio tracker with market-inspired UI and financial visualizations.
@@ -61,6 +68,7 @@ An elegant finance dashboard focused on expense tracking, insights, and clean UI
 
 <img width="1888" height="922" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/22d64d2c-e7a6-4c14-a69e-56fed3bfab07" />
 
+<img width="1911" height="930" alt="expense 1" src="https://github.com/user-attachments/assets/4ac6d556-aee2-493b-9c01-536e617b68e8" />
 ---
 
 ## 🦠 COVID Dashboard

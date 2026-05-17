@@ -48,6 +48,14 @@ A Netflix-inspired streaming UI built with modern frontend technologies and smoo
 
 ---
 
+
+![Preview 4](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-4.jpg)
+
+---
+
+![Preview 5](https://raw.githubusercontent.com/Sandesh-bn/DefinitelyNotNetflicks/refs/heads/master/src/assets/preview-5.jpg)
+
+
 ## 📈 Trading Portfolio Dashboard
 
 A sleek trading portfolio tracker with market-inspired UI and financial visualizations.

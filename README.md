@@ -14,6 +14,8 @@ Track and visualize Apple product pricing trends with interactive analytics and 
 - Live Demo: [Apple Product Price Dashboard](https://apple-product-insights-frontend.vercel.app/)
 - Source Code: [GitHub Repository](https://github.com/Sandesh-bn/Apple_Product_Insights_Frontend)
 
+<img width="1024" height="4025" alt="localhost_5173_" src="https://github.com/user-attachments/assets/8a451258-deb3-4535-8572-39d41bf29cc5" />
+
 ![Apple Dashboard Preview](https://github.com/user-attachments/assets/05f037fc-af57-4e89-ad2c-f121e11345fa)
 
 <img width="1867" height="870" alt="ap3" src="https://github.com/user-attachments/assets/256d10db-90e0-4903-8d73-4cb4b35c85f8" />

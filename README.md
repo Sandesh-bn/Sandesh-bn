@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Frontend engineer passionate about building polished, interactive, and data-driven web experiences.  
-Here are some of my personal projects outside of professional work.
+Some of my personal front-end engineering projects not related to my professional work.
 
 ---
 
